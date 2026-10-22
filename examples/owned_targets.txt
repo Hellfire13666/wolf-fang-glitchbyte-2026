@@ -1,0 +1,2 @@
+# For authorized TCP checks, replace this synthetic IP with an address you own or are authorized to test.
+192.0.2.10
