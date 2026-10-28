@@ -1,5 +1,9 @@
 # 🐺 WOLF FANG v0.1.3 // FANG VISION
 
+<!-- GLITCHBYTE-VISITOR-BADGE:START -->
+[![Page Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHellfire13666%2Fwolf-fang-glitchbyte-2026&count_bg=%23FF1493&title_bg=%23080808&icon=&icon_color=%23FFFFFF&title=PAGE+VIEWS&edge_flat=false)](https://github.com/Hellfire13666/wolf-fang-glitchbyte-2026)
+<!-- GLITCHBYTE-VISITOR-BADGE:END -->
+
 ![WOLF FANG command center](assets/wolf-fang-repo-cover.png)
 
 **VISUAL EDITION:** The approved wolf-ops artwork is included in `assets/`, and each HTML report embeds a compact WOLF FANG banner directly. It remains completely readable offline, including if you move the HTML to another folder or computer. The original JSON and CSV reports are unchanged.
