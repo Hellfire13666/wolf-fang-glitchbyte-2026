@@ -1,7 +1,7 @@
 # 🐺 WOLF FANG v0.1.3 // FANG VISION
 
 <!-- GLITCHBYTE-VISITOR-BADGE:START -->
-[![Page Views](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FHellfire13666%2Fwolf-fang-glitchbyte-2026&label=PAGE%20VIEWS&icon=skull&color=%23FF1493&style=flat-square)](https://github.com/Hellfire13666/wolf-fang-glitchbyte-2026)
+[![Page Views](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FHellfire13666%2Fwolf-fang-glitchbyte-2026&label=PAGE%20VIEWS&icon=emoji-smile&color=%23FF1493&style=flat-square)](https://github.com/Hellfire13666/wolf-fang-glitchbyte-2026)
 <!-- GLITCHBYTE-VISITOR-BADGE:END -->
 
 ![WOLF FANG command center](assets/wolf-fang-repo-cover.png)
